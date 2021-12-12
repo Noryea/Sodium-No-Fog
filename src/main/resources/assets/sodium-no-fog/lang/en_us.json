@@ -1,0 +1,4 @@
+{
+  "options.sodium-no-fog.removeFog": "Remove Fog",
+  "options.sodium-no-fog.removeFog.tooltip": "Enable it to remove terrain fog effect."
+}

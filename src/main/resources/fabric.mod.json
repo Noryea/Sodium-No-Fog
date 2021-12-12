@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "sodium-no-fog",
+  "version": "${version}",
+
+  "name": "Sodium No Fog",
+  "description": "Remove fog for Sodium.",
+  "authors": [
+    "Noryea"
+  ],
+  "contact": {
+  },
+  "license": "CC0-1.0",
+  "environment": "client",
+  "mixins": [
+    "sodium-no-fog.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "minecraft": "1.18.x",
+    "sodium": "*",
+    "java": ">=17"
+  }
+}

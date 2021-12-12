@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "cn.noryea.sodiumnofog.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+  ],
+  "client": [
+    "MixinBackgroundRenderer",
+    "MixinSodiumGUI"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

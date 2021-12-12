@@ -1,0 +1,4 @@
+{
+  "options.sodium-no-fog.removeFog": "禁用迷雾",
+  "options.sodium-no-fog.removeFog.tooltip": "启用后,将移除迷雾效果."
+}
